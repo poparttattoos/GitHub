@@ -19330,7 +19330,7 @@ input[type=number] {
 }
 
 ::selection {
-    color: #e4063e;
+    color: rgb(228, 6, 62);
     background-color: rgba(228, 6, 62, 0.1);
 }
 
@@ -26964,7 +26964,7 @@ input[type=number] {
 
     .navbar-expand-lg.navbar-dark .navbar-nav,
     .navbar-expand-lg.navbar-dark .navbar-topbar-collapse-toggler {
-        background-color: #373738;
+        background-color: #2d374b;
     }
 
     .navbar-expand-lg.navbar-vertical .navbar-nav {
